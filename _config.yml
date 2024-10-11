@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Yu Zheng"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yu Zheng"
 description              : &description "personal description"
 url                      : https://zhanwantcvpr.github.io/zhengyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
